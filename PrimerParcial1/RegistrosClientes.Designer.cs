@@ -1,6 +1,6 @@
 ﻿namespace PrimerParcial1
 {
-    partial class Form1
+    partial class RegistrosClientes
     {
         /// <summary>
         /// Required designer variable.
